@@ -1,0 +1,15 @@
+# Challenge dataset
+dataset/
+
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated outputs
+output/
+
+# Mac files
+.DS_Store
